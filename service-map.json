@@ -15,9 +15,9 @@
   ],
   "seeds": [
     {
-      "host": "seed-eu.cognixstack.com",
+      "host": "seed-nz.cognixstack.com",
       "public_ip": "203.0.113.50",
-      "region": "EU-WEST",
+      "region": "NZ",
       "ports": {
         "webrtc_start": 50000,
         "webrtc_end": 50100
