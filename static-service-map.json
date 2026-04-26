@@ -1,0 +1,31 @@
+{
+  "coordinators": [
+    {
+      "host": "coordinator.cognixstack.com",
+      "public_ip": "203.0.113.50",
+      "priority": 1,
+      "status": "healthy",
+      "ports": {
+        "auth": 8443,
+        "kms": 7443,
+        "tracker": 6881
+      },
+      "last_seen": "2026-04-24T10:05:00Z"
+    }
+  ],
+  "seeds": [
+    {
+      "host": "seed-eu.cognixstack.com",
+      "public_ip": "203.0.113.50",
+      "region": "EU-WEST",
+      "ports": {
+        "webrtc_start": 50000,
+        "webrtc_end": 50100
+      },
+      "last_seen": "2026-04-24T10:05:00Z"
+    }
+  ],
+  "stun_server": "stun.cognixstack.com:3478",
+  "ttl_seconds": 86400,
+  "server_time": "2026-04-24T10:05:00Z"
+}
