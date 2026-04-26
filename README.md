@@ -1,3 +1,3 @@
 # BoxPlay
-## Thin Discovery Layer
+## Static Thin Discovery Layer
 `service-map.json`
