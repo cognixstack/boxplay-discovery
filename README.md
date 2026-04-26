@@ -1,2 +1,3 @@
-# boxplay-discovery
-service-map.json
+# boxplay
+## Thin Discovery Layer
+'service-map.json'
